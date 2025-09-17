@@ -31,7 +31,7 @@ API REST para uma loja online com operações CRUD para Clientes e Produtos, imp
 ### Passo a passo
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/RafaelDevProjects/Byteshop-API.git
 cd byteshop-api
 ```
 
