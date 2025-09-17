@@ -176,8 +176,9 @@ src/
 5. Documentação: Utilizamos Swagger para documentação automática da API
 
 ## Desenvolvedores
-| Nome                                    | RM      |
-|----------------------------------------|---------|
-| Rafael de Almeida Sigoli                | RM554019 |
-| Rafael Jorge Del Padre                  | RM552765|
-| Giovanna Franco Gaudino Rodrigues       | RM553701 |
+| Nome                                   | RM        |
+|---------------------------------------|-----------|
+| Rafael de Almeida Sigoli               | RM554019  |
+| Rafael Jorge Del Padre                 | RM552765  |
+| Giovanna Franco Gaudino Rodrigues      | RM553701  |
+|Lucas Bertolassi Iori       | RM553183  |
