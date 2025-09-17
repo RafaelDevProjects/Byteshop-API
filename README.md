@@ -78,7 +78,6 @@ Para visualizar os dados no banco de dados:
 ## Exemplos de uso
 ### Criar um cliente
 ```bash
-bash
 curl -X POST http://localhost:8080/clientes \
 -H "Content-Type: application/json" \
 -d '{
